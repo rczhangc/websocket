@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/netty-service/netty-service.iml" filepath="$PROJECT_DIR$/netty-service/netty-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/websocket.iml" filepath="$PROJECT_DIR$/.idea/websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/websocket-client/websocket-client.iml" filepath="$PROJECT_DIR$/websocket-client/websocket-client.iml" />
+    </modules>
+  </component>
+</project>
